@@ -1,0 +1,12 @@
+Program for Echo PHP Function, PHP Variables, If and Switch Statements:
+
+	1.evenodd.php
+	2.vowel.php
+
+Program for PhP Operators:
+	1.calculator.php
+	2.comparision.php
+
+Program for Arrays:
+	1.week.php
+	2.
